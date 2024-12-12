@@ -1,0 +1,11 @@
+S1 5 Math Science Gym Chem Film
+S2 4 Math Sound Speech Gym
+S3 5 Science Data Speech English Economy
+S4 4 Math Flim Management Finance
+S5 3 Game Sound Photography
+S6 5 Game CS Science Data Math
+S7 5 Sound Management Finance Economy Data
+S8 3 Film Game Photography
+S9 3 Photography Tech Soccer
+S10 4 Gym Soccer Science Chem
+S11 5 Game Data Tech Economy Management
